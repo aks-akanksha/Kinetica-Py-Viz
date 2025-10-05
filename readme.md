@@ -6,23 +6,8 @@ A curated collection of visually captivating scientific and mathematical phenome
 
 A preview of some of the animations you can generate with this project.
 
-**Double Pendulum**
-![Double Pendulum](animation_examples/double_pendulum.gif)
-
-**Animated 3D Surface**
-![Animated 3D Surface](animation_examples/animate_3D_surface.gif)
-
-**Conway’s Game of Life**
-![Conway’s Game of Life](animation_examples/conway's_game_of_life.gif)
-
-**A* Pathfinding**
-![A\* Pathfinding](animation_examples/A_star_pathfinding.gif)
-
-**Bubble Sort Algorithm**
-![Bubble Sort](animation_examples/sorting_algorithm_visualization.gif)
-
-**Barnsley Fern Fractals**
-![Barnsley Fern](animation_examples/barnsley_fern_fractal.gif)
+<img src="animation_examples/double_pendulum.gif" alt="Double Pendulum" width="300"> <img src="animation_examples/animate_3D_surface.gif" alt="Animated 3D Surface" width="300"> <img src="animation_examples/conway's_game_of_life.gif" alt="Conway's Game of Life" width="300">
+<img src="animation_examples/A_star_pathfinding.gif" alt="A* Pathfinding" width="300"> <img src="animation_examples/sorting_algorithm_visualization.gif" alt="Bubble Sort Algorithm" width="300"> <img src="animation_examples/barnsley_fern_fractal.gif" alt="Barnsley Fern Fractal" width="300">
 
 ---
 
