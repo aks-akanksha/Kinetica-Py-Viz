@@ -1,3 +1,24 @@
-animate/
-private_script/
-.gitignore
+# --- Project specific ---
+/animate/
+/private_script/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# --- Envs / local ---
+.venv/
+venv/
+.env
+.env.*
+.envrc
