@@ -6,13 +6,23 @@ A curated collection of visually captivating scientific and mathematical phenome
 
 A preview of some of the animations you can generate with this project.
 
-Double Pendulum !/home/akanksha/Desktop/projects/animate/animation_examples/double_pendulum.gif
-Animated 3D Surface !/home/akanksha/Desktop/projects/animate/animation_examples/animate_3D_surface.gif
-Conway's Game of Life !/home/akanksha/Desktop/projects/animate/animation_examples/conway's_game_of_life.gif
+**Double Pendulum**
+![Double Pendulum](animation_examples/double_pendulum.gif)
 
-A* Pathfinding !/home/akanksha/Desktop/projects/animate/animation_examples/A_star_pathfinding.gif
-Bubble Sort Algorithm !/home/akanksha/Desktop/projects/animate/animation_examples/sorting_algorithm_visualization.gif
-Barnsley Fern Fractals !/home/akanksha/Desktop/projects/animate/animation_examples/barnsley_fern_fractal.gif
+**Animated 3D Surface**
+![Animated 3D Surface](animation_examples/animate_3D_surface.gif)
+
+**Conway’s Game of Life**
+![Conway’s Game of Life](animation_examples/conway's_game_of_life.gif)
+
+**A* Pathfinding**
+![A\* Pathfinding](animation_examples/A_star_pathfinding.gif)
+
+**Bubble Sort Algorithm**
+![Bubble Sort](animation_examples/sorting_algorithm_visualization.gif)
+
+**Barnsley Fern Fractals**
+![Barnsley Fern](animation_examples/barnsley_fern_fractal.gif)
 
 ---
 
