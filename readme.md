@@ -6,8 +6,18 @@ A curated collection of visually captivating scientific and mathematical phenome
 
 A preview of some of the animations you can generate with this project.
 
-<img src="animation_examples/double_pendulum.gif" alt="Double Pendulum" width="300"> <img src="animation_examples/animate_3D_surface.gif" alt="Animated 3D Surface" width="300"> <img src="animation_examples/conway's_game_of_life.gif" alt="Conway's Game of Life" width="300">
-<img src="animation_examples/A_star_pathfinding.gif" alt="A* Pathfinding" width="300"> <img src="animation_examples/sorting_algorithm_visualization.gif" alt="Bubble Sort Algorithm" width="300"> <img src="animation_examples/barnsley_fern_fractal.gif" alt="Barnsley Fern Fractal" width="300">
+<table>
+  <tr>
+    <td><img src="animation_examples/double_pendulum.gif" alt="Double Pendulum" height="180"><br><sub>Double Pendulum</sub></td>
+    <td><img src="animation_examples/animate_3D_surface.gif" alt="Animated 3D Surface" height="180"><br><sub>Animated 3D Surface</sub></td>
+    <td><img src="animation_examples/conway's_game_of_life.gif" alt="Conway's Game of Life" height="180"><br><sub>Conway's Game of Life</sub></td>
+  </tr>
+  <tr>
+    <td><img src="animation_examples/A_star_pathfinding.gif" alt="A* Pathfinding" height="180"><br><sub>A* Pathfinding</sub></td>
+    <td><img src="animation_examples/sorting_algorithm_visualization.gif" alt="Bubble Sort Algorithm" height="180"><br><sub>Bubble Sort</sub></td>
+    <td><img src="animation_examples/barnsley_fern_fractal.gif" alt="Barnsley Fern Fractal" height="180"><br><sub>Barnsley Fern</sub></td>
+  </tr>
+</table>
 
 ---
 
