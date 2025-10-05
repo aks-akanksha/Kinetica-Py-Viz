@@ -84,11 +84,11 @@ python3 double_pendulum.py
 
 ## 🔧 Project Structure
 
-Animation Scripts (.py): Each file (e.g., lorenz_attractor.py) is a self-contained script that generates a specific animation.
+'''Animation Scripts (.py)''' Each file (e.g., lorenz_attractor.py) is a self-contained script that generates a specific animation.
 
-animation_outputs: You can see sample outputs here!
+'''animation_outputs''' You can see sample outputs here!
 
-README.md: You are here!
+'''README.md''' You are here!
 
 ---
 
